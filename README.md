@@ -8,7 +8,7 @@ Time spent: **6** hours spent in total
 
 ## Required Features
 
-Here is the link after deployment: https://github.com/jocoli/Quest-Board
+Here is the link after deployment: https://quest-board-delta.vercel.app/
 
 
 
